@@ -1,0 +1,20 @@
+git add .
+git add notebook/
+
+git status
+
+git commit -m "info"
+git push -u origin main
+
+
+
+#New opening
+conda activate venv/
+conda activate e:\projects\mlproject\venv
+
+
+
+TASK
+#Convert it into modular coding and CI/CD pipeline
+
+pip install -r requirements.txt
